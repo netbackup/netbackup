@@ -1,0 +1,5 @@
+nornir_scrapli==2020.11.1
+nornir==3.0.0
+nornir_netmiko==0.1.1
+nornir_utils==0.1.1
+scrapli-ssh2==2020.10.24
